@@ -1,5 +1,5 @@
 ﻿<TextLibrary name="${res:SharpDevelop.SideBar.AsciiTable}">
-    <Test display="13	0D	'CRLF'" value="&lt;13,10&gt;" />
+    <Test display="13,10	0D,OA	'CRLF'" value="&lt;13,10&gt;" />
     <Test display="00	00	'Null'" value="&lt;0&gt;" />
     <Test display="07	07	'Bell'" value="&lt;7&gt;" />
     <Test display="08	08	'BackSpace'" value="&lt;8&gt;" />
