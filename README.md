@@ -19,7 +19,7 @@
          Note: use the default manifest if you have the IDE under Program Files
 
 * CWRoot\Bin\Clarion.exe.manifest
-   Turns off UAC Escalation
+   Turns off UAC Escalation - make sure you have not installed Clarion to the Program Files folder for this change.
 
 
 * CWRoot\Data\options\TextLib\ASCIITable.xml
